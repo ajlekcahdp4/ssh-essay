@@ -1,0 +1,36 @@
+ylonenemail:
+    type: misc
+    title: "ANNOUNCEMENT: Ssh (Secure Shell) Remote Login Program"
+    author: Tatu Ylonen
+    date: 1995-07-12
+arch:
+    type: web
+    title: The Secure Shell (SSH) Protocol Architecture
+    author: Tatu Ylonen; C. Lonvick
+    date: 2007
+    url: https://datatracker.ietf.org/doc/html/rfc4251
+    serial-number:
+        doi: doi:10.17487/RFC4251
+auth:
+    type: web
+    title: The Secure Shell (SSH) Authentification Protocol
+    author: Tatu Ylonen; C. Lonvick
+    url: https://datatracker.ietf.org/doc/html/rfc4252
+    date: 2006
+transport:
+    type: web
+    title: The Secure Shell (SSH) Transport Layer Protocol
+    author: Tatu Ylonen; C. Lonvick
+    url: https://datatracker.ietf.org/doc/html/rfc4253
+port22:
+    type: web
+    author: Tatu Ylonen
+    title: How SSH port became 22
+    url: https://www.ssh.com/academy/ssh/port
+rsa:
+    type: Article
+    author: Rivest R.; Shamir A.; Adleman L
+    title: A method for obtaining digital signatures and public-key cryptosystems
+    serial-number:
+        doi:  doi:10.1145/359340.359342
+    url: https://people.csail.mit.edu/rivest/Rsapaper.pdf
